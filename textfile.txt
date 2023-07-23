@@ -8,4 +8,18 @@ Hi, This is manisha
 :wq
 
 
+new line
+
+
+
+
+
+
+
+
+
+
+
+:w
+:x
 
