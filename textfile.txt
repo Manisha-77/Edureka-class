@@ -1,6 +1,6 @@
 Hi, This is manisha
 
-
+let this be a check product
 
 
 
@@ -20,6 +20,4 @@ new line
 
 
 
-:w
-:x
 
